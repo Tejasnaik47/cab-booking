@@ -47,7 +47,7 @@
                             <li><a href="drivers.html">Drivers</a></li>
                             <li><a href="cars.html">Cars</a></li>
                             <li><a href="garage.html">Garage</a></li>
-                      <!--      <li><a href="locations.html">Locations</a></li>
+                            <li><a href="locations.html">Locations</a></li>
                             <li><a href="#!">Pages</a>
                                 <ul>
                                     <li><a href="about.html">About</a></li>
@@ -64,7 +64,7 @@
                                         </ul>
                                     </li>
                                 </ul>
-                            </li> -->
+                            </li>
                         </ul>
                     </nav>
                 </div>
